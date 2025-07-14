@@ -42,8 +42,8 @@ Odden, sorumlu oyun ilkesine bağlıdır. Kullanıcılarına sadece eğlence ama
 
 ---
 
-### Meta Başlık (Meta Title):
+### ODDEN
 **Odden Bahis Sitesi | Yüksek Oranlı Güvenilir Bahis ve Casino – www.odden16.com**
 
-### Meta Açıklama (Meta Description):
+### ODDEN
 Odden bahis sitesi, yüksek oranlar, hızlı ödeme seçenekleri ve geniş oyun yelpazesiyle güvenilir bir online b
